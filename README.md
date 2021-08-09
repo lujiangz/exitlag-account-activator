@@ -3,7 +3,7 @@
 
  Activate exitlag trial accounts (unlimited trial accounts)
 
-## ⭐Also, if you want to support me, follow me on github and star the project.⭐
+## ⭐If you want to support me, follow me on github and star the project.⭐
 
 <img src="https://user-images.githubusercontent.com/53904508/128664596-e908f0d1-c222-47f4-8ce4-53d368e281cb.png">
 
