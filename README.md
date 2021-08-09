@@ -18,7 +18,7 @@ This script is created for educational purposes only, I am not responsible for t
 1. Resets Trial (Unlimited usage)<br />
 2. Easy to Use.<br />
 
-## Note (How to use Exitlag Crack):
+## Note (How to use Exitlag Trial Reset):
 - Download and install <a href="https://www.python.org/downloads/">python</a> and <a href="https://exitlag.com">exitlag</a>.
 - Download <a href="https://github.com/gato-louco/exitlag-account-activator/blob/main/main.py">main.py</a> to your Downloads folder.
 - Create a account on exitlag with the password `gatolouco`
@@ -28,11 +28,5 @@ This script is created for educational purposes only, I am not responsible for t
 - Type the account's email and press return.
 - It should activate the account and you will get free access to exitlag for 3 days.
 - Now simply login using the email in exitlag software that you have downloaded earlier.
-
-### Keywords:
-1. Exitlag Crack.
-2. Exitlag Trial Reset.
-3. Exitlag crack download.
-4. Exitlag crack reddit.
 
 ## Have a nice day :)
