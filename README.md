@@ -14,11 +14,11 @@ This script is created for educational purposes only, I am not responsible for t
 1. A Brain
 2. Python Installed
  
-## Features Exitlag Trial Reset:
+## Features Exitlag Account Activator:
 1. Resets Trial (Unlimited usage)<br />
 2. Easy to Use.<br />
 
-## Note (How to use Exitlag Trial Reset):
+## Note (How to use Exitlag Account Activator):
 - Download and install <a href="https://www.python.org/downloads/">python</a> and <a href="https://exitlag.com">exitlag</a>.
 - Download <a href="https://github.com/gato-louco/exitlag-account-activator/blob/main/main.py">main.py</a> to your Downloads folder.
 - Create a account on exitlag with the password `gatolouco`
