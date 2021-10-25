@@ -22,7 +22,7 @@ This script is created for educational purposes only, I am not responsible for t
 - Download and install <a href="https://www.python.org/downloads/">python</a> and <a href="https://exitlag.com">exitlag</a>.
 - Download <a href="https://github.com/gato-louco/exitlag-account-activator/blob/main/main.py">main.py</a> to your Downloads folder.
 - Create a account on exitlag with the password `gatolouco`
-- You can use this working <a href="https://protonmail.com">PROTON MAIL</a> to create temp mails for Exitlag.
+- You can use this working <a href="https://mail.tm">TEMP MAIL (MAIL.TM)</a> to create temp mails for Exitlag.
 - Now open CMD and type `pip install websockets` to install the module.
 - After that type `python Downloads/main.py` or add the location if your files download somewhere else.
 - Type the account's email and press return.
